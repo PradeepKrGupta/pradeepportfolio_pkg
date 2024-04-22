@@ -65,7 +65,7 @@ const HeroContent = () => {
         </motion.p>
 
 
-        <Link href="https://drive.google.com/file/d/1fGL9HyrRpU15w2-0apu9NWEdZgwSgvAL/view?usp=sharing" target="_blank" rel="noreferrer noopener" className="font-bold py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]">
+        <Link href="https://drive.google.com/file/d/1m0xJeH8hsVCeZtFM_yeDd10ZM-tV3eYu/view?usp=sharing" target="_blank" rel="noreferrer noopener" className="font-bold py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]">
           {/* <motion.a> */}
           My Resume
           {/* </motion.a> */}
