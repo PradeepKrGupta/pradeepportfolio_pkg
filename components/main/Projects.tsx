@@ -24,12 +24,13 @@ const Projects = () => {
 
 
         <ProjectCard
-          src="/signLanguage.jpeg"
+          src="/SignLanguageDetectionOutput.mp4"
           title="Guesture Recognition using YoloV5"
           year="Sept-Oct 2023"
           description="Sign language serves as vital communication for the deaf and hard of hearing. This project addresses the communication gap by developing an advanced gesture recognition model, enabling real-time interpretation of sign language gestures from video input. Leveraging machine learning and computer vision, it accurately detects gestures, fostering inclusivity by translating them into text or spoken language. This innovative solution promotes effective communication between both sign language users and the broader community. Notably, the system boasts exceptional accuracy in real-time detection of 18 gestures, marking a significant advancement in accessibility technology 🤚✋👋👌✌️🤞"
 
           href="https://www.linkedin.com/posts/pradeep-kumar-gupta-b696a7234_amritavishwavidyapeetham-machinelearning-activity-7134759439047217152-PCYd?utm_source=share&utm_medium=member_desktop"
+          isVideo={true}
         />
         <ProjectCard
           src="/portfolio.jpeg"
