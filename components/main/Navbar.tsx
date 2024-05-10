@@ -75,7 +75,7 @@ const Navbar = () => {
             <Link href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKkwpSZRWPlbXsjJCVPHRTpdcdBdqQsnrZqVxCGXbJpZvvMPJLcrLFlGcLrJSWgchCMZflb' target="_blank" rel="noreferrer noopener" className="nav-link">
               <span className="text-gray-200">Contact me</span>
             </Link>
-            <Link href="https://drive.google.com/file/d/1m0xJeH8hsVCeZtFM_yeDd10ZM-tV3eYu/view?usp=sharing" target="_blank" rel="noreferrer noopener" className="font-bold text-white bg-purple-400 rounded-lg py-1 px-2 hover:scale-105">
+            <Link href="https://drive.google.com/file/d/18SKHC13F4yzzZJnCHfs45zArcL0yn_xK/view?usp=sharing" target="_blank" rel="noreferrer noopener" className="font-bold text-white bg-purple-400 rounded-lg py-1 px-2 hover:scale-105">
               My Resume
             </Link>
           </div>
