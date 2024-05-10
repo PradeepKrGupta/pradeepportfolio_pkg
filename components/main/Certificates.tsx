@@ -19,6 +19,16 @@ const Certificates = () => {
 
         
           <ProjectCard
+            src="/dockerCertificate.jpeg"
+            year="April 2024"
+            title="Docker for Intermediate Level"
+            by="By Great Learning Academy"
+            description="
+            🚀 Completing the Docker for Intermediate level course on the Great Learning Platform has been an enriching experience! 💻⚙️ Throughout the journey, I delved into Docker storage solutions like volumes, mounts, and networking services such as Bridge, Host, and Overlay Networks. Additionally, I mastered automation techniques using Compose Up and Dockerfile. This learning journey has equipped me with advanced containerization skills, ready to tackle complex projects with confidence! 🎉 #ContinuousLearning #Docker #GreatLearning"
+
+            href="https://drive.google.com/file/d/1YwS3g1D8zClIpd-_vOtwkuCGu9nBbKnc/view?usp=sharing"
+          />
+          <ProjectCard
             src="/dataAnalyst.png"
             year="29 feb 2024"
             title="Data Analytics Essentials"
