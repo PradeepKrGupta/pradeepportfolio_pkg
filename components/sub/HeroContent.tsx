@@ -38,8 +38,8 @@ const HeroContent = () => {
           <Image
             src="/newProfile.png"
             alt="profile_image"
-            height={550}
-            width={550}
+            height={570}
+            width={570}
           />
         </motion.div>
 
