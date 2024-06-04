@@ -36,7 +36,7 @@ const HeroContent = () => {
           className="w-full h-full flex justify-left items-left"
         >
           <Image
-            src="/profile.png"
+            src="/newProfile.png"
             alt="profile_image"
             height={550}
             width={550}
