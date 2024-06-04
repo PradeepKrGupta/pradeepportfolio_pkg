@@ -14,6 +14,16 @@ const Projects = () => {
       <div className="h-full w-full grid grid-cols-1 md:grid-cols-3 gap-10 px-10"> {/* Use grid layout with 3 columns for medium size screens and above */}
 
         <ProjectCard
+          src="/BusTracking.mp4" // Replace with your actual video path
+          title="Cloud-Based Real-Time Bus Tracking System using Mobile GPS"
+          year="23-May 2024"
+          description="The Hybrid Cloud-Based Bus Tracking System is an innovative solution designed to enhance real-time bus tracking 🚌💨, making commuting more efficient and dependable. The system leverages Google Firebase 🔐 for user authentication and Amazon Web Services (AWS) EC2 🌐 to host the server, ensuring a seamless and reliable user experience. The custom-made user interface was built from scratch using the versatile ReactNative framework 📱, delivering a robust cross-platform application.
+          This project demonstrates the potential of cloud-based technologies in transforming everyday commuting, providing a reliable and efficient solution for real-time bus tracking."
+          href="https://youtu.be/uJIKwjOQbZQ?si=mIFOtrN1nv5Hg997"
+          isVideo={true}
+        />
+
+        <ProjectCard
           src="/Emotion_Recognition.mp4" // Replace with your actual video path
           title="Emotion Recognition using CNN"
           year="11-April 2024"
