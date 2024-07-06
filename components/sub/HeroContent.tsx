@@ -48,7 +48,7 @@ const HeroContent = () => {
           className="flex flex-col gap-1 mt-2 text-3xl font-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
-            Providing you
+            Providing
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-300 to-cyan-300">
               {" "}
               the Amazing{" "} Project{" "}
