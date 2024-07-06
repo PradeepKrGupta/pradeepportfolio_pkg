@@ -19,12 +19,22 @@ const Certificates = () => {
 
         
           <ProjectCard
+            src="/reactnative.jpg"
+            year="2 July 2024"
+            title="Complete React-Native Bootcamp: Built 18 ios and android apps"
+            by="By Udemy"
+            description="
+            Completing the Complete React-Native Course on Udemy has been an incredible journey! 📱💡 Throughout the course, I progressed from a beginner to an advanced level, building several project-based full-stack mobile apps using the highly flexible cross-platform framework, React Native. This framework enables the creation of a single app that can run on Android, iOS, and even the web. The hands-on experience and in-depth knowledge gained have been invaluable. 🚀 I'm thrilled to have expanded my skill set and am excited to start applying what I've learned to real-world projects. A huge shoutout to the instructors for making this course both comprehensive and engaging! 👏✨"
+
+            href="https://drive.google.com/file/d/124SwyistewpniDq1lt-YfhbrERwhEtGt/view?usp=sharing"
+          />
+          <ProjectCard
             src="/dockerCertificate.jpeg"
             year="April 2024"
             title="Docker for Intermediate Level"
             by="By Great Learning Academy"
             description="
-            🚀 Completing the Docker for Intermediate level course on the Great Learning Platform has been an enriching experience! 💻⚙️ Throughout the journey, I delved into Docker storage solutions like volumes, mounts, and networking services such as Bridge, Host, and Overlay Networks. Additionally, I mastered automation techniques using Compose Up and Dockerfile. This learning journey has equipped me with advanced containerization skills, ready to tackle complex projects with confidence! 🎉 #ContinuousLearning #Docker #GreatLearning"
+            🚀 Completing the Docker for Intermediate level course on the Great Learning Platform has been an enriching experience! 💻⚙️ Throughout the journey, I delved into Docker storage solutions like volumes, mounts, and networking services such as Bridge, Host, and Overlay Networks. Additionally, I mastered automation techniques using Compose Up and Dockerfile. This learning journey has equipped me with advanced containerization skills, ready to tackle complex projects with confidence! 🎉"
 
             href="https://drive.google.com/file/d/1YwS3g1D8zClIpd-_vOtwkuCGu9nBbKnc/view?usp=sharing"
           />
