@@ -13,8 +13,8 @@ const Education = () => {
           year="2021 - 2025"
           university="Amrita Vishwa Vidyapeetham, Bengaluru"
           stream="B.Tech (Computer Science and Engineering)"
-          description="I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Amrita School of Engineering, Banglore. I have completed 5 semesters and have a CGPA of 8.11. Proficient in Java and Python, and adept at web and mobile app development, Data Science, and software debugging."
-          cgpa="8.11/10"
+          description="I am a final year Engineering Student of B.Tech Computer Science and Engineering at Amrita Vishwa Vidyapeetham University, Banglore. Proficient in Java, Python and JavaScript and adept at web and mobile app development, Data Science, and software debugging."
+          cgpa="8.19/10"
         />
         <EducationCard
           year="2017 - 2019"
