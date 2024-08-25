@@ -72,6 +72,9 @@ const Navbar = () => {
             <Link href="#certificates" className="nav-link">
               <span className="text-gray-200">Certificates</span>
             </Link>
+            <Link href="#publications" className="nav-link">
+              <span className="text-gray-200">Publications</span>
+            </Link>
             <Link href="#education" className="nav-link">
               <span className="text-gray-200">Education</span>
             </Link>
