@@ -17,7 +17,7 @@ export default function Home() {
         <Encryption />
         <Projects />
         <Certificates />
-        <Publications />
+        {/* <Publications /> */}
         <Education />
         <Footer />
       </div>

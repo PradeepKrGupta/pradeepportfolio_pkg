@@ -52,10 +52,11 @@ interface Props {
   year: string;
   title: string;
   Conference: string;
+  description:string;
   href: string;
 }
 
-const PublicationsCard = ({ src, year, title, Conference, href }: Props) => {
+const PublicationsCard = ({ src, year, title, Conference,description, href }: Props) => {
   return (
     <StyledProjectCard>
       <ImageContainer>
@@ -71,10 +72,11 @@ const PublicationsCard = ({ src, year, title, Conference, href }: Props) => {
           </div>
           <h1 className="text-2xl font-semibold text-white">{title}</h1>
           <h3 className="text-1xl font-semibold text-white">{Conference}</h3>
+          <p className="mt-2 text-gray-300 mb-4 text-left">{description}</p>
         </div>
         <Link href={href} target="_blank" rel="noreferrer noopener">
           <VisitProjectButton>
-            Research and Publications
+            View Certificate
           </VisitProjectButton>
         </Link>
       </ContentContainer>

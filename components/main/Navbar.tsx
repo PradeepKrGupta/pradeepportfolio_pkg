@@ -58,8 +58,8 @@ const Navbar = () => {
           </button>
         </div>
         
-        <div className={`md:flex flex-col md:flex-row md:items-center md:justify-center md:mr-20 w-full md:w-auto ${isMenuOpen ? 'block' : 'hidden'}`}>
-          <div className={`flex flex-col md:flex-row md:gap-5 md:items-center ${isMenuOpen ? '' : 'border border-[#7042f861] bg-[#0300145e] mr-[15px] px-[20px] py-[10px] rounded-full'}`}>
+        <div className={`md:flex flex-col md:flex-row md:items-center md:justify-center md:mr-16 w-full md:w-auto ${isMenuOpen ? 'block' : 'hidden'}`}>
+          <div className={`flex flex-col md:flex-row md:gap-5 md:items-center ${isMenuOpen ? '' : 'border border-[#7042f861] bg-[#0300145e] mr-[-27px] px-[20px] py-[10px] rounded-full'}`}>
             <Link href="#about" className="nav-link">
               <span className="text-gray-200">About</span>
             </Link>
