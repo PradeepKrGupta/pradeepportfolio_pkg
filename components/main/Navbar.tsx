@@ -17,7 +17,7 @@ const Navbar = () => {
     <div className="w-full fixed top-0 shadow-lg bg-[#03001417] backdrop-blur-md z-50">
       <div className="w-full flex items-center justify-between px-4 md:px-10 py-3">
         <div className="flex items-center">
-          <Link href="/" className="flex items-center">
+          <Link href="https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg" className="flex items-center">
             <Image
               src="/NavLogo.png"
               alt="logo"
