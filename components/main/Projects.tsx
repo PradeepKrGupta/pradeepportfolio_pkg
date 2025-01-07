@@ -12,7 +12,14 @@ const Projects = () => {
         My Projects
       </h1>
       <div className="h-full w-full grid grid-cols-1 md:grid-cols-3 gap-10 px-10"> {/* Use grid layout with 3 columns for medium size screens and above */}
+      <ProjectCard
+          src="/MetaSearch.jpg"
+          title=" Meta Serach Engine Mobile App (SmartShop)"
+          year="Oct-Dec 2024"
+          description="SmartShop is a Meta Search Engine Mobile App 🛒 that lets users compare product prices across multiple e-commerce platforms 🌐 in real-time ⏱️. Built with React Native 📲 and powered by Node.js ⚙️ for backend services, it uses Firebase Authentication 🔒 for secure access. Through web scraping 🖥️ and API integration 🔗, the app delivers accurate pricing 💵 and a side-by-side comparison interface 📊. With a polished UI 🎨 from NativeBase, SmartShop ensures an efficient and seamless shopping experience ✅"
 
+          href="https://github.com/PradeepKrGupta/SmartShop--pkg"
+        />
         <ProjectCard
           src="/BusTracking.mp4" // Replace with your actual video path
           title="Cloud-Based Real-Time Bus Tracking System using Mobile GPS"

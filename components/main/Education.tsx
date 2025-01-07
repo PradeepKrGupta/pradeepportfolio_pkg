@@ -14,21 +14,21 @@ const Education = () => {
           university="Amrita Vishwa Vidyapeetham, Bengaluru"
           stream="B.Tech (Computer Science and Engineering)"
           description="I am a final year Engineering Student of B.Tech Computer Science and Engineering at Amrita Vishwa Vidyapeetham University, Banglore. Proficient in Java, Python and JavaScript and adept at web and mobile app development, Data Science, and software debugging."
-          cgpa="8.19/10"
+          cgpa="8.26/10"
         />
         <EducationCard
           year="2017 - 2019"
           university="Sai Global Secondary School, Nepal"
-          stream="National Examinations Board"
+          stream="National Examinations Board (Equivalent: CBSE)"
           description="I have completed my Higher Secondary School from Sai Global Secondary School, Nepal on specialization of Physics, Chemistry and Math"
-          cgpa="3.22/4.0"
+          cgpa="(3.22/4.0) <==> (8.05/10)"
         />
         <EducationCard
           year="June 2017"
           university="Buddha Jyoti MA VI, Nepal"
-          stream="National Examinations Board"
+          stream="National Examinations Board (Equivalent: CBSE)"
           description="I have completed my schooling from National Examination Board in Buddha Jyoti MA VI."
-          cgpa="3.50/4.0"
+          cgpa="(3.50/4.0) <==> (8.75/10)"
         />
         {/* Add more EducationCard components as needed */}
       </div>

@@ -72,16 +72,16 @@ const Navbar = () => {
             <Link href="#certificates" className="nav-link">
               <span className="text-gray-200">Certificates</span>
             </Link>
-            {/* <Link href="#publications" className="nav-link">
-              <span className="text-gray-200">Publications</span>
-            </Link> */}
             <Link href="#education" className="nav-link">
               <span className="text-gray-200">Education</span>
+            </Link>
+            <Link href="#publications" className="nav-link">
+              <span className="text-gray-200">Publications</span>
             </Link>
             <Link href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKkwpSZRWPlbXsjJCVPHRTpdcdBdqQsnrZqVxCGXbJpZvvMPJLcrLFlGcLrJSWgchCMZflb' target="_blank" rel="noreferrer noopener" className="nav-link">
               <span className="text-gray-200">Contact me</span>
             </Link>
-            <Link href="https://drive.google.com/file/d/12Y20Gs9C3HvG9QEiHjFGe8x2RApCLfC1/view?usp=sharing" target="_blank" rel="noreferrer noopener" className="font-bold text-white bg-purple-400 rounded-lg py-1 px-2 hover:scale-105">
+            <Link href="https://drive.google.com/file/d/1BxURgN_fp-w6f4j-hjxtbDR_BI99tmjM/view?usp=sharing" target="_blank" rel="noreferrer noopener" className="font-bold text-white bg-purple-400 rounded-lg py-1 px-2 hover:scale-105">
               My Resume
             </Link>
           </div>
