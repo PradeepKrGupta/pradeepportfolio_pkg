@@ -39,7 +39,7 @@ const Publications = () => {
               title="Facial Emotion Recognition Using Computer Vision Techniques"
               Conference="Fifteenth International IEEE Conference on Computing, Communication, and Networking Technologies (ICCCNT)"
               description="This is one of my best Deep Learning Project where 7 Different Facial Emotions of Humans (Happy, Sad, Angry, Disgust, Surprise, Neutral, Fear) can be able to detect, In this project different Algorithms like Convolutional Neural Network (CNN), ResNet50 and InceptionV3 have been used to trained the model. About Dataset: The dataset comprises a diverse collection of 28,821 images used for training, featuring seven distinct facial expressions: Total Images: 28821 ,surprise: 3,205 images, fear: 4,103 images, anger: 3,993 images, neutral: 4,982 images, sadness: 4,938 images, disgust: 436 images, happiness: 7,164 images"
-              href="https://drive.google.com/drive/u/0/folders/1xyb4KAOQuy9Xvr7TlEt6UIrDmp6Oclgh"
+              href="https://drive.google.com/file/d/1xid8QwLh5grl4teW1pZOSWd7JrJ2XgrV/view?usp=sharing"
             />
           <PublicationsCard
             src="/RealEstateCertificate.jpeg"
@@ -47,7 +47,7 @@ const Publications = () => {
             title="Real Estate Price Prediction Uisng PySpark MLlib"
             Conference="1st IEEE International Conference on Smart Power Control and Renewable Energy (ICSPCRE)"
             description="This is one of the good project for using the big data techonolgy like pyspark mllib where in dataset I have used around 3 lakh instances with around 18 attributes with the help of preprocessing the data and it's proper corrections the model can able to predict the real estate prices according to the dependent attributes required for the proper predictions on Tier 1 cities like Mumbai, Pune, Bangalore, Delhi, Hydrabad and many more."
-            href="https://drive.google.com/drive/u/0/folders/1xyb4KAOQuy9Xvr7TlEt6UIrDmp6Oclgh"
+            href="https://drive.google.com/file/d/13Ctd1CXQwVxKtd5-geZzgjelaymPGwpV/view?usp=sharing"
           />
           
       </div>
