@@ -48,7 +48,7 @@ const Footer = () => {
 
                         <Link href="https://x.com/brainfidelity" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] cursor-pointer nav-link" passHref >
                             <RxTwitterLogo />
-                            <span className="text-[15px] ml-[6px]">X.Com</span>
+                            <span className="text-[15px] ml-[6px]">x.com</span>
                         </Link>
 
 
