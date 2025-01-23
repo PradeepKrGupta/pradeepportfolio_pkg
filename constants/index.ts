@@ -97,15 +97,15 @@ export const Skill_data = [
       src: "/instagram.svg",
       so:"https://www.instagram.com/pradeeprauniyarofficial/"
     },
-    // {
-      //   name: "Facebook",
-      //   src: "/facebook.svg",
-      //   so:"https://www.facebook.com/pradeep.rauniyar.904/"
-      // },
+    {
+        name: "Facebook",
+        src: "/facebook.svg",
+        so:"https://www.facebook.com/brainfidelity/"
+      },
       {
         name: "Twitter",
-        src: "/twitter-sign.png",
-        so:"https://twitter.com/Pradeepgupta_39"
+        src: "/twitter.png",
+        so:"https://x.com/brainfidelity"
       },
       {
         name: "Discord",
@@ -120,42 +120,6 @@ export const Skill_data = [
   ];
 
 
-
-  // export const myproj = [
-  //   {
-  //     src: "signLanguage",
-  //     name: "signlanguage",
-  //     href: "https://www.linkedin.com/posts/pradeep-kumar-gupta-b696a7234_amritavishwavidyapeetham-machinelearning-activity-7134759439047217152-PCYd?utm_source=share&utm_medium=member_desktop"
-  //   },
-  //   {
-  //     src="portfolio",
-  //     name: "portfolio",
-  //     href: "#" // You can replace "#" with the actual link for your portfolio
-  //   },
-  //   {
-  //     src="HMS",
-  //     name: "HMS",
-  //     href: "https://github.com/PradeepKrGupta/Hostel-Management-System-using-python-flask-and-oracle-database--PKG"
-  //   },
-  //   {
-  //     src="AcademicSpot",
-  //     name: "AcademicSpot",
-  //     href: "https://github.com/PradeepKrGupta/Academic-Spot--PKG"
-  //   },
-  //   {
-  //     src="Jarvis",
-  //     name: "Jarvis",
-  //     href: "https://github.com/PradeepKrGupta/Jarvis-Artificial-Intelligence-PKG-"
-  //   },
-  //   {
-  //     src="spaceInveder",
-  //     name: "spaceInveder",
-  //     href: "https://github.com/PradeepKrGupta/Space-Invader-Game--PKG"
-  //   },
-  // ];
-  
-  
-  
   export const Frontend_skill = [
     {
       skill_name: "Html 5",
