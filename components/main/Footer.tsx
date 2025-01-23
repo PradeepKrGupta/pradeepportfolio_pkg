@@ -46,9 +46,9 @@ const Footer = () => {
                             <span className="text-[15px] ml-[6px]">Instagram</span>
                         </Link>
 
-                        <Link href="https://twitter.com/Pradeepgupta_39" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] cursor-pointer nav-link" passHref >
+                        <Link href="https://x.com/brainfidelity" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] cursor-pointer nav-link" passHref >
                             <RxTwitterLogo />
-                            <span className="text-[15px] ml-[6px]">Twitter</span>
+                            <span className="text-[15px] ml-[6px]">X.Com</span>
                         </Link>
 
 
