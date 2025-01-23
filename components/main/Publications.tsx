@@ -31,7 +31,7 @@ const Publications = () => {
               title="Low-Cost Network Jammer for Wi-Fi Network in Civilian Areas"
               Conference="5th International Conference on Smart Electronics and Communication (ICOSEC 2024)"
               description="This application presents a novel approach to intercepting unmanned aerial vehicles (UAVs) and the Wifi Networks operating in the 2.4 GHz frequency band using an Arduino Nano and nRF24L01 module. The jamming device identifies wireless networks, targets specific channels, and disrupts drone connections in real-time. It provides a flexible and scalable solution for network security professionals, with a focus on drones like the DJI Phantom and Parrot Bebop series. The paper details implementation, experimental results, and highlights the effectiveness of this 2.4 GHz jammer for UAV countermeasures."
-              href="https://drive.google.com/file/d/1TP4EOFfvimRJvvSQ1yuNpkr8TEC87x4B/view?usp=sharing"
+              href="https://ieeexplore.ieee.org/document/10722738"
             />
             <PublicationsCard
               src="/facialCertificate.jpeg"
@@ -39,7 +39,7 @@ const Publications = () => {
               title="Facial Emotion Recognition Using Computer Vision Techniques"
               Conference="Fifteenth International IEEE Conference on Computing, Communication, and Networking Technologies (ICCCNT)"
               description="This is one of my best Deep Learning Project where 7 Different Facial Emotions of Humans (Happy, Sad, Angry, Disgust, Surprise, Neutral, Fear) can be able to detect, In this project different Algorithms like Convolutional Neural Network (CNN), ResNet50 and InceptionV3 have been used to trained the model. About Dataset: The dataset comprises a diverse collection of 28,821 images used for training, featuring seven distinct facial expressions: Total Images: 28821 ,surprise: 3,205 images, fear: 4,103 images, anger: 3,993 images, neutral: 4,982 images, sadness: 4,938 images, disgust: 436 images, happiness: 7,164 images"
-              href="https://drive.google.com/file/d/1xid8QwLh5grl4teW1pZOSWd7JrJ2XgrV/view?usp=sharing"
+              href="https://ieeexplore.ieee.org/document/10725699"
             />
           <PublicationsCard
             src="/RealEstateCertificate.jpeg"
@@ -47,7 +47,7 @@ const Publications = () => {
             title="Real Estate Price Prediction Uisng PySpark MLlib"
             Conference="1st IEEE International Conference on Smart Power Control and Renewable Energy (ICSPCRE)"
             description="This is one of the good project for using the big data techonolgy like pyspark mllib where in dataset I have used around 3 lakh instances with around 18 attributes with the help of preprocessing the data and it's proper corrections the model can able to predict the real estate prices according to the dependent attributes required for the proper predictions on Tier 1 cities like Mumbai, Pune, Bangalore, Delhi, Hydrabad and many more."
-            href="https://drive.google.com/file/d/13Ctd1CXQwVxKtd5-geZzgjelaymPGwpV/view?usp=sharing"
+            href="https://ieeexplore.ieee.org/document/10675142"
           />
           
       </div>

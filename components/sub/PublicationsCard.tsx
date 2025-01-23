@@ -76,7 +76,7 @@ const PublicationsCard = ({ src, year, title, Conference,description, href }: Pr
         </div>
         <Link href={href} target="_blank" rel="noreferrer noopener">
           <VisitProjectButton>
-            View Certificate
+            View Publication
           </VisitProjectButton>
         </Link>
       </ContentContainer>
